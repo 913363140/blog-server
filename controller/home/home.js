@@ -77,7 +77,7 @@ class Home extends BaseComponent{
       console.log(err)
       result.message = 'system error'
       ctx.body = result
-    }1
+    }
   }
 }
 
