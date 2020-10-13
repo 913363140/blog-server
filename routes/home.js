@@ -1,4 +1,4 @@
-import Router from 'koa-Router'
+import Router from 'koa-router'
 import Home from '../controller/home/home'
 
 const router = new Router()
